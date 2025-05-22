@@ -1,4 +1,4 @@
-# Data and Analysis Code for "Diet-induced inflammation and gout prevalence" Study
+# Sex-Specific-Analysis-of-DII-and-Gout
 
 This repository contains the dataset (`datav4.csv`) and R scripts used for the analyses in the manuscript titled "Diet-induced inflammation and gout prevalence: Sex-specific findings from a cross-sectional analysis in the representative US population" (Manuscript ID: AJCN-D-25-01128).
 
