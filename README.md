@@ -1,4 +1,4 @@
-# Sex-Specific-Analysis-of-DII-and-Go
+# Sex-Specific-Analysis-of-DII-and-Gout
 
 ## Dataset: `datav4.csv`
 
