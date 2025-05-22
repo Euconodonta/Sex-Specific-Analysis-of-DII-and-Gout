@@ -1,5 +1,9 @@
 # Sex-Specific-Analysis-of-DII-and-Gout
 
+```
+[![DOI](https://zenodo.org/badge/988447046.svg)](https://doi.org/10.5281/zenodo.15490675)
+```
+
 ## Dataset: `datav4.csv`
 
 * **Source:** The data was derived from the National Health and Nutrition Examination Survey (NHANES).
