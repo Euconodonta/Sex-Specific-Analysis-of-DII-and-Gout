@@ -1,16 +1,9 @@
-# Sex-Specific-Analysis-of-DII-and-Gout
-
-This repository contains the dataset (`datav4.csv`) and R scripts used for the analyses in the manuscript titled "Diet-induced inflammation and gout prevalence: Sex-specific findings from a cross-sectional analysis in the representative US population" (Manuscript ID: AJCN-D-25-01128).
+# Sex-Specific-Analysis-of-DII-and-Go
 
 ## Dataset: `datav4.csv`
 
 * **Source:** The data was derived from the National Health and Nutrition Examination Survey (NHANES).
 * **Processing:** The raw NHANES data underwent a cleaning and preparation process using the `shuffle.R` script included in this repository, resulting in the `datav4.csv` file.
-* **Content:** This CSV file contains the analytical dataset used for the study.
-    * **IMPORTANT:** A detailed description of each column (variable) in `datav4.csv`, its meaning, units, and any relevant codes should be provided here or in a separate data dictionary file (e.g., `data_dictionary.md` or `data_dictionary.csv`). **[请您在此处补充每一列的具体含义，或者创建一个单独的数据字典文件并在此处说明。例如：]**
-        * `variable1`: Description of variable 1 (e.g., Age in years).
-        * `variable2`: Description of variable 2 (e.g., Sex, 1=Male, 2=Female).
-        * ... (and so on for all columns)
 
 ## R Scripts
 
